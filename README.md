@@ -2,4 +2,7 @@
 Practicas de Java
 
 Integrantes:
-Rafael Meléndez Tomanguilla 
+
+Rafael Meléndez Tomanguilla
+
+Kevin Ronquillo
